@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "47a97186-7898-4209-b969-38ef19d0f69d",
+    "namespaced_id": 1,
+    "status": "ACTIVE",
+    "name": "Harborwalk",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "width": 24.384,
+        "id": "47a97186-7898-4209-b969-38ef19d0f69d",
+        "namespacedId": 1,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "swqBTs_pJGPbAnWNsQ1il",
+            "variant": "fence",
+            "floors": 1,
+            "elevation": 0.457
+          },
+          "right": {
+            "id": "kI62d6klbxh3Q-H_Klfuc",
+            "variant": "dock",
+            "floors": 1,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "4hafMpnlJpfQoKGruZ7_x",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 0.914,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "8TNY5Av5-SctNu6j67k2s",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 4.267,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "T74-IjULu_GhGaz6pI2JW",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 0.914,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "NXqaUIGiCTukzIuzhDvsg",
+            "type": "bike-lane",
+            "variantString": "twoway-right|regular|sidewalk",
+            "width": 3.048,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Cycletrack"
+          },
+          {
+            "id": "NoTHTc-O_J72DLF9i4-H-",
+            "type": "sidewalk-lamp",
+            "variantString": "left|traditional",
+            "width": 0.61,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            }
+          },
+          {
+            "id": "-5G8WZDzV2gTmdN77rSJF",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 2.438,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "CflfSsz0eqlXIyxPN-vuM",
+            "type": "divider",
+            "variantString": "planting-strip",
+            "width": 7.925,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                0.305,
+                0
+              ]
+            },
+            "label": "Berm"
+          },
+          {
+            "id": "8kw0ht9f57QZV1f45j-sl",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 4.267,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Harborwalk"
+          }
+        ],
+        "editCount": 2
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 0,
+          "stormSurge": false,
+          "floodDetails": [
+            null,
+            {
+              "direction": "right",
+              "distance": 0,
+              "floodedTypes": [],
+              "flooded": false
+            }
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T18:32:32.719+00:00",
+    "updated_at": "2026-09-10T19:17:00+00:00",
+    "client_updated_at": "2026-09-10T19:17:00+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "979148b5-71d2-49f6-8470-b50120ae5e5f",
+    "namespaced_id": 2,
+    "status": "ACTIVE",
+    "name": "Mounded Berm",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 30.48,
+        "id": "979148b5-71d2-49f6-8470-b50120ae5e5f",
+        "namespacedId": 2,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "lVl0xfC1RY6JQ8tDUNJVF",
+            "variant": "residential",
+            "floors": 1,
+            "elevation": 0
+          },
+          "right": {
+            "id": "VE2OfjhqUs4fbWeqgfcjp",
+            "variant": "waterfront2",
+            "floors": 1,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "S3IiqqR-ZwJwy4KQQ5edO",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "H0L694u6e1wyvBA0seXJt",
+            "type": "sidewalk-tree",
+            "variantString": "big",
+            "width": 0.914,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "tGPAG-DHS0EdryOhefqWs",
+            "type": "bike-lane",
+            "variantString": "inbound|regular|road",
+            "width": 1.829,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "5IadE53Wah_VEbHGkDppD",
+            "type": "drive-lane",
+            "variantString": "outbound|car",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "RkV-9CcVtFrOM_Eee1ocy",
+            "type": "drive-lane",
+            "variantString": "outbound|car",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            }
+          },
+          {
+            "id": "r5-dM6XKyQImCC1YJ7JOP",
+            "type": "bioswale",
+            "variantString": "bush",
+            "width": 2.743,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "OgIA85KYMhP-HqHQze5p_",
+            "type": "sidewalk-lamp",
+            "variantString": "left|pride",
+            "width": 0.61,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            }
+          },
+          {
+            "id": "OaOtoTGOSAbPLffkivsYp",
+            "type": "divider",
+            "variantString": "planting-strip",
+            "width": 5.486,
+            "elevation": 1.83,
+            "slope": {
+              "on": true,
+              "values": [
+                0.152,
+                1.83
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "tOx5fJIFVXKa9cbDB72Ge",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 4.267,
+            "elevation": 1.83,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Harborwalk",
+            "elevationChanged": true
+          },
+          {
+            "id": "LnuL9F4cWCA9sGpn3XJRP",
+            "type": "sidewalk-bench",
+            "variantString": "left",
+            "width": 1.219,
+            "elevation": 1.83,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "BVrdilvE0qACTZZAa5iN4",
+            "type": "divider",
+            "variantString": "planting-strip",
+            "width": 5.486,
+            "elevation": 1.83,
+            "slope": {
+              "on": true,
+              "values": [
+                1.83,
+                0
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 111
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": false,
+          "floodDistance": [
+            null,
+            161.965
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:14:46.898+00:00",
+    "updated_at": "2026-07-22T23:19:35.683+00:00",
+    "client_updated_at": "2026-07-15T19:19:35.106+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "34db8932-c7cd-42d8-8129-70b27ce048b3",
+    "namespaced_id": 3,
+    "status": "ACTIVE",
+    "name": "Terraced Berm",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "width": 31.699,
+        "id": "34db8932-c7cd-42d8-8129-70b27ce048b3",
+        "namespacedId": 3,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "nbFbEJLHtJ5BJQT5OZLEs",
+            "variant": "parking-lot",
+            "floors": 3,
+            "elevation": 3.649
+          },
+          "right": {
+            "id": "PxKAj73y20PofXV4LT2ic",
+            "variant": "fishing-boat",
+            "floors": 1,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "I1j6bODGzne-NNMQ_CRWU",
+            "type": "food-truck",
+            "variantString": "right",
+            "width": 3.048,
+            "elevation": 3.658,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "BNlh5fne_J-Pv9mNe4PLj",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 3.048,
+            "elevation": 3.658,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "xsrfd394Opvv-SotrYibW",
+            "type": "bioswale",
+            "variantString": "tree",
+            "width": 2.438,
+            "elevation": 3.658,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "ABxBuBwECboSkhECZoUEj",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 3.048,
+            "elevation": 3.658,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "bGoFhq7zealROlFlPvO7O",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 2.438,
+            "elevation": 2.438,
+            "slope": {
+              "on": true,
+              "values": [
+                3.658,
+                2.433
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "zaMV1yE8S6-fwsuUFrXNk",
+            "type": "sidewalk-tree",
+            "variantString": "big",
+            "width": 1.219,
+            "elevation": 2.442,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "SGjCPO1lKTEoQId2p78vj",
+            "type": "sidewalk-bench",
+            "variantString": "left",
+            "width": 1.219,
+            "elevation": 2.442,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "lHaeDfy36MUkYrmiefV36",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 2.433,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "PvtRT7v5WX4GvZ0xt_rIt",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 1.524,
+            "elevation": 2.438,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "SGQSC8RcdvQ6Q0gW1BXbS",
+            "type": "guardrail",
+            "variantString": "default",
+            "width": 0.305,
+            "elevation": 2.438,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "EEQsFVevMFGX8FYHfVj79",
+            "type": "divider",
+            "variantString": "bush",
+            "width": 3.658,
+            "elevation": 1.219,
+            "slope": {
+              "on": true,
+              "values": [
+                2.438,
+                1.219
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "OwwxXR9gI9_zMy6KyhfJM",
+            "type": "divider",
+            "variantString": "bush",
+            "width": 1.524,
+            "elevation": 1.219,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "8Tdp60fBl3JUCWEntG303",
+            "type": "divider",
+            "variantString": "bush",
+            "width": 6.401,
+            "elevation": 0.305,
+            "slope": {
+              "on": true,
+              "values": [
+                1.222,
+                0
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 6
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": true,
+          "floodDistance": [
+            null,
+            375.113
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:21:45.725+00:00",
+    "updated_at": "2026-07-22T23:18:14.242+00:00",
+    "client_updated_at": "2026-07-15T19:22:12.611+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "8cdabea5-4956-49f0-9817-eda332586556",
+    "namespaced_id": 4,
+    "status": "ACTIVE",
+    "name": "Raised Roadway and Marsh",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": true,
+        "width": 29.566,
+        "id": "8cdabea5-4956-49f0-9817-eda332586556",
+        "namespacedId": 4,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "1drDMauH7V9V7d3Wn_TYL",
+            "variant": "wide",
+            "floors": 4,
+            "elevation": 0.152
+          },
+          "right": {
+            "id": "j9W3Hd_xxjGbrr-98lXHZ",
+            "variant": "marsh",
+            "floors": 3,
+            "elevation": 0.152
+          }
+        },
+        "segments": [
+          {
+            "id": "_-Vbu4LpgNMNVPN_LzoH8",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 2.438,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "eYVpwo8O64tIQ6iVq_n55",
+            "type": "sidewalk-tree",
+            "variantString": "big",
+            "width": 0.61,
+            "elevation": 2.438,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "6lCfrQEWs-TMVlr3kWe0E",
+            "type": "sidewalk-lamp",
+            "variantString": "right|modern",
+            "width": 0.61,
+            "elevation": 2.286,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "cGuCM8zGU8_XVLyh5CBCy",
+            "type": "drive-lane",
+            "variantString": "inbound|car",
+            "width": 2.743,
+            "elevation": 2.286,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "ZlGntnUMNNi0EIc2x34fP",
+            "type": "divider",
+            "variantString": "bush",
+            "width": 0.914,
+            "elevation": 2.438,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "Gs-VonAA5dbKTw6zioH6E",
+            "type": "turn-lane",
+            "variantString": "outbound|left-straight",
+            "width": 3.048,
+            "elevation": 2.286,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "RxdJdk4dWpBX2Ls3RM3J4",
+            "type": "parking-lane",
+            "variantString": "outbound|right",
+            "width": 2.134,
+            "elevation": 2.286,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "Wd0pnWDurWJsEhWAf-z2P",
+            "type": "divider",
+            "variantString": "planter-box",
+            "width": 1.219,
+            "elevation": 2.28,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "IURWHvtCcWAbO_BxRDM-W",
+            "type": "bike-lane",
+            "variantString": "outbound|green|road",
+            "width": 1.829,
+            "elevation": 2.28,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "AcSgAbo-9tcnlpMuebi9L",
+            "type": "sidewalk-tree",
+            "variantString": "big",
+            "width": 0.61,
+            "elevation": 2.432,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "Gq8A0FkljysivAp7gEmAn",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 1.829,
+            "elevation": 2.432,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "l_nSrrX7dQhddtdjf0mSN",
+            "type": "marsh",
+            "variantString": "marsh",
+            "width": 12.192,
+            "elevation": 2.432,
+            "slope": {
+              "on": true,
+              "values": [
+                2.432,
+                0.152
+              ]
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 1
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": true,
+          "floodDistance": [
+            null,
+            368.998
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:12:04.698+00:00",
+    "updated_at": "2026-07-22T22:12:22.655+00:00",
+    "client_updated_at": "2026-07-15T19:12:21.964+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "3af8bb0d-d219-4c82-aff7-726555a51b48",
+    "namespaced_id": 5,
+    "status": "ACTIVE",
+    "name": "Elevated Harborwalk",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 31.09,
+        "id": "3af8bb0d-d219-4c82-aff7-726555a51b48",
+        "namespacedId": 5,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "twilight",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "-LqoxWNxnRYfdy8kMW5T0",
+            "variant": "arcade",
+            "floors": 4,
+            "elevation": 0.457
+          },
+          "right": {
+            "id": "j6kyM4xJ-2vYEzpGJT9ug",
+            "variant": "dock",
+            "floors": 4,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "PRhiA8qRcPRJa9THbmv-i",
+            "type": "outdoor-dining",
+            "variantString": "occupied|sidewalk",
+            "width": 2.438,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "8A4cEzLoX2IkGNoc3sNrQ",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 0.914,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park",
+            "elevationChanged": true
+          },
+          {
+            "id": "xbRJd74MU0AR_oxEynSzd",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 1.829,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "MBVy-B5cQ4RP1LtggrRbr",
+            "type": "sidewalk-lamp",
+            "variantString": "both|traditional",
+            "width": 0.61,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "dCpoCqm7yUxe-f6LIsBuG",
+            "type": "bikeshare",
+            "variantString": "left|road",
+            "width": 2.134,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "rvANdMuw98JE02jQR_0ff",
+            "type": "bike-lane",
+            "variantString": "twoway-right|regular|sidewalk",
+            "width": 3.048,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Cycletrack"
+          },
+          {
+            "id": "z1AOBV2qg2egdl4vsOnFA",
+            "type": "bioswale",
+            "variantString": "bush",
+            "width": 2.438,
+            "elevation": 0.153,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "MXSB-ULRR6c2mjptewSsn",
+            "type": "sidewalk-wayfinding",
+            "variantString": "large",
+            "width": 1.219,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "D1LZ0jLCFXMmZ-ZdNCwFP",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "SWH0-fpk4IJRunYqoj-qc",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 2.438,
+            "elevation": 0.305,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park"
+          },
+          {
+            "id": "y7VKRqo-PSIZ25nxJig-4",
+            "type": "divider",
+            "variantString": "planting-strip",
+            "width": 7.925,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                0.305,
+                1.824
+              ]
+            },
+            "label": "Berm"
+          },
+          {
+            "id": "i91TKTIF_aJ4m3vydlc_a",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 3.658,
+            "elevation": 1.824,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Harborwalk",
+            "elevationChanged": true
+          },
+          {
+            "id": "KUETcDWFpUw51rhukXAX0",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 0.912,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 1
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": false,
+          "floodDistance": [
+            null,
+            0
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:07:30.709+00:00",
+    "updated_at": "2026-07-22T21:07:49.175+00:00",
+    "client_updated_at": "2026-07-15T19:07:48.37+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "b7b1ca25-c43c-4f6f-bc3c-2c610166c7d8",
+    "namespaced_id": 6,
+    "status": "ACTIVE",
+    "name": "Beach Dune",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 30.48,
+        "id": "b7b1ca25-c43c-4f6f-bc3c-2c610166c7d8",
+        "namespacedId": 6,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "mSMpTB8oxuDkQ7hftG3MJ",
+            "variant": "parking-lot",
+            "floors": 1,
+            "elevation": 0.152
+          },
+          "right": {
+            "id": "KB-PXVzCOeyE8p6Udr2Hg",
+            "variant": "water",
+            "floors": 1,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "6YfghwnOLB3kMmZRqn095",
+            "type": "food-truck",
+            "variantString": "right",
+            "width": 3.048,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "4GcnGu84YdRMagYWqeuXk",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 6.096,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Pedestrian walk"
+          },
+          {
+            "id": "LfvAZ9igjEzckA1RBsKhw",
+            "type": "marsh",
+            "variantString": "marsh",
+            "width": 5.182,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                0,
+                1.521
+              ]
+            },
+            "label": "Dune"
+          },
+          {
+            "id": "n6W-RcXx1FMZ4uULj2mSN",
+            "type": "marsh",
+            "variantString": "marsh",
+            "width": 1.219,
+            "elevation": 1.521,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Dune",
+            "elevationChanged": true
+          },
+          {
+            "id": "aefQSj4hU7BBt_vWuMsjA",
+            "type": "marsh",
+            "variantString": "marsh",
+            "width": 4.267,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                1.521,
+                0
+              ]
+            },
+            "label": "Dune"
+          },
+          {
+            "id": "tEGDdvxE6LIDQTUCAEnuk",
+            "type": "beach",
+            "variantString": "beach",
+            "width": 10.668,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            }
+          }
+        ],
+        "editCount": 1
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": false,
+          "floodDistance": [
+            null,
+            571.535
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:08:13.631+00:00",
+    "updated_at": "2026-07-22T20:08:28.445+00:00",
+    "client_updated_at": "2026-07-15T19:08:27.856+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "30e04c84-48f5-41ef-a403-ca9a41d62466",
+    "namespaced_id": 7,
+    "status": "ACTIVE",
+    "name": "Industrial Seawall",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 27.432,
+        "id": "30e04c84-48f5-41ef-a403-ca9a41d62466",
+        "namespacedId": 7,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "WV1opfGhYGecJJIVlmyeF",
+            "variant": "compound-wall",
+            "floors": 1,
+            "elevation": 0
+          },
+          "right": {
+            "id": "rpno2NNalJcnm1m7qPtj1",
+            "variant": "cargo-ship",
+            "floors": 1,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "-KQQe7Hk0mZJOYJ9g3qEm",
+            "type": "light-rail",
+            "variantString": "inbound|regular",
+            "width": 3.658,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "OKes7Otg2wyUjnOIjR8OP",
+            "type": "light-rail",
+            "variantString": "outbound|regular",
+            "width": 3.658,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "BhIlAirx-M8CLqKhbHWVm",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "diG1hpsvv-9pkmTTghBLW",
+            "type": "transit-shelter",
+            "variantString": "right|light-rail",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "8NdmW7Gfa5e93qkxUS6oR",
+            "type": "sidewalk-tree",
+            "variantString": "big",
+            "width": 1.219,
+            "elevation": 0.152,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "Eihq2PCd7_beaBvH4YDke",
+            "type": "bus-lane",
+            "variantString": "outbound|regular|typical",
+            "width": 3.658,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "C3ZhZ9Z15h9cCrhpyjGtY",
+            "type": "drive-lane",
+            "variantString": "outbound|truck",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "0982R1SKY3PMTdOPUFn_O",
+            "type": "drive-lane",
+            "variantString": "inbound|truck",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "CeB7mD1ET-Rj8tP8T9915",
+            "type": "drive-lane",
+            "variantString": "inbound|car-with-bus",
+            "width": 3.048,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "DMaWNOw0KyVY9tjdw0JEl",
+            "type": "divider",
+            "variantString": "striped-buffer",
+            "width": 0.61,
+            "elevation": 0,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "dJvKDGlfuDj2j3U7xzWni",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 1.825,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 0
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": true,
+          "floodDistance": [
+            null,
+            0
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T18:56:41.458+00:00",
+    "updated_at": "2026-07-22T19:56:41.574+00:00",
+    "client_updated_at": "2026-07-15T18:56:41.351+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "48ad9890-76d3-4657-a662-3b0f56d03044",
+    "namespaced_id": 8,
+    "status": "ACTIVE",
+    "name": "Narrow Waterfront Pier",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 6.096,
+        "id": "48ad9890-76d3-4657-a662-3b0f56d03044",
+        "namespacedId": 8,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "9x2FFjLkdrhI0PFewzKCY",
+            "variant": "wide",
+            "floors": 3,
+            "elevation": 0.457
+          },
+          "right": {
+            "id": "lxv6h6EqJoHkB-eiMVhUo",
+            "variant": "dock",
+            "floors": 2,
+            "elevation": 0
+          }
+        },
+        "segments": [
+          {
+            "id": "GQaGWrYyI_34ShovYisUq",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 2.896,
+            "elevation": 1.065,
+            "slope": {
+              "on": true,
+              "values": [
+                0.457,
+                1.217
+              ]
+            },
+            "label": "Berm",
+            "elevationChanged": true
+          },
+          {
+            "id": "o0wrpMHak-aYoVC4lbif-",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 2.438,
+            "elevation": 1.217,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Harborwalk",
+            "elevationChanged": true
+          },
+          {
+            "id": "rj2AsdLc4E3qjTlBvRW4A",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.762,
+            "elevation": 0.761,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 2
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": true,
+          "floodDistance": [
+            null,
+            0
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T19:20:45.477+00:00",
+    "updated_at": "2026-07-22T19:20:57.788+00:00",
+    "client_updated_at": "2026-07-15T19:20:57.233+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "bc6d7f6e-c0cf-4b07-87eb-131117ddf132",
+    "namespaced_id": 9,
+    "status": "ACTIVE",
+    "name": "Causeway",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 25.603,
+        "id": "bc6d7f6e-c0cf-4b07-87eb-131117ddf132",
+        "namespacedId": 9,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "dawn",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "variant": "waterfront2",
+            "floors": 4,
+            "elevation": 0,
+            "id": "XhEyLT044itwyjr7QhyPh"
+          },
+          "right": {
+            "variant": "fishing-boat",
+            "floors": 1,
+            "elevation": 0,
+            "id": "FyN2Q1ExQHJwPjybl0jlH"
+          }
+        },
+        "segments": [
+          {
+            "id": "zBrptyt_ZHm2_EgKw23lO",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "a_QH_LiKwlmuRLKr0zT6V",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 2.438,
+            "elevation": 1.372,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "vfxExdlVz3WH7Zn2kIXwk",
+            "type": "slope",
+            "variantString": "grass",
+            "width": 1.676,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                1.372,
+                0.914
+              ]
+            }
+          },
+          {
+            "id": "rv9rA4Gs2VRIJfcsvAWDx",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 0.457,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "kHZG_JKYDImulkPct47s5",
+            "type": "bike-lane",
+            "variantString": "inbound|green|road",
+            "width": 1.829,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "LwbSnaapX12-r7XsTozOh",
+            "type": "drive-lane",
+            "variantString": "inbound|car",
+            "width": 3.048,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "mJ1anQp6r8ttjBG__HxN4",
+            "type": "drive-lane",
+            "variantString": "outbound|car",
+            "width": 3.048,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "gzJ_YL0NfM74jSQEGie2j",
+            "type": "bike-lane",
+            "variantString": "outbound|green|road",
+            "width": 1.829,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "insmlL5dx4Tl7LNvVb07r",
+            "type": "sidewalk-lamp",
+            "variantString": "left|traditional",
+            "width": 0.457,
+            "elevation": 0.914,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "L5ER1tyLocThFN6NDxcIC",
+            "type": "slope",
+            "variantString": "grass",
+            "width": 1.676,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                0.912,
+                1.218
+              ]
+            }
+          },
+          {
+            "id": "wNZSDZxSDUcE61x0lTzy6",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 2.438,
+            "elevation": 1.37,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "JZJmbkqOmwJROMoIL69dI",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 1.066,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "C8Yw1h6h2Dvi3KxlSSQ8X",
+            "type": "marsh",
+            "variantString": "marsh",
+            "width": 5.486,
+            "elevation": 0.914,
+            "slope": {
+              "on": true,
+              "values": [
+                1.522,
+                0
+              ]
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 13
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 2070,
+          "stormSurge": true,
+          "floodDistance": [
+            0,
+            216.047
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T18:57:27.585+00:00",
+    "updated_at": "2026-07-22T19:06:15.108+00:00",
+    "client_updated_at": "2026-07-15T19:06:14.392+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "b59fde73-e180-4995-91bf-a7722b5e433f",
+    "namespaced_id": 10,
+    "status": "ACTIVE",
+    "name": "Beachfront Property",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "width": 24.384,
+        "id": "b59fde73-e180-4995-91bf-a7722b5e433f",
+        "namespacedId": 10,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "day",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "id": "Br6SK5rrqXkOjksJGHcsK",
+            "variant": "beach",
+            "floors": 1,
+            "elevation": 0
+          },
+          "right": {
+            "id": "173pjMYLW3D_CZNvGhnXb",
+            "variant": "residential",
+            "floors": 1,
+            "elevation": 4.256
+          }
+        },
+        "segments": [
+          {
+            "id": "0fYiI_3dQOO8hgoE9TrEw",
+            "type": "slope",
+            "variantString": "dune",
+            "width": 7.01,
+            "elevation": 0,
+            "slope": {
+              "on": true,
+              "values": [
+                0,
+                0.914
+              ]
+            }
+          },
+          {
+            "id": "Zyhe7F0uMYeuZMCtGjKEN",
+            "type": "slope",
+            "variantString": "dune",
+            "width": 0.61,
+            "elevation": 1.064,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "K9w4bHRSx6pbEkA0W4uRQ",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.762,
+            "elevation": 0.913,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "wY1YrgYCIgEi6XXJRk-Gz",
+            "type": "sidewalk-lamp",
+            "variantString": "both|traditional",
+            "width": 0.61,
+            "elevation": 1.217,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "dYHqcfW9ybWPbSefMUGFJ",
+            "type": "sidewalk",
+            "variantString": "sparse",
+            "width": 5.486,
+            "elevation": 1.217,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "lgtks9t8P7ysKsH3vHR0k",
+            "type": "sidewalk-bench",
+            "variantString": "right",
+            "width": 0.914,
+            "elevation": 1.217,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "-AyhLSuTGKsycRTfI4LI0",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.762,
+            "elevation": 2.281,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "NP1dnhzR40vuu1gfKjfFR",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 6.096,
+            "elevation": 4.258,
+            "slope": {
+              "on": true,
+              "values": [
+                2.281,
+                4.258
+              ]
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "M2mKYJqQcS7Q-eaqrRONt",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 0.305,
+            "elevation": 4.258,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "786flCr2M2nHD12BYYsB3",
+            "type": "sidewalk",
+            "variantString": "dense",
+            "width": 1.829,
+            "elevation": 4.258,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 1
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 0,
+          "stormSurge": false,
+          "floodDistance": [
+            0,
+            null
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T16:18:20.391+00:00",
+    "updated_at": "2026-07-15T18:02:05.754+00:00",
+    "client_updated_at": "2026-07-15T18:01:53.584+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "45a134e8-94bd-4943-b5a8-d52d9827c47c",
+    "namespaced_id": 11,
+    "status": "ACTIVE",
+    "name": "Terraced Waterfront",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 24.384,
+        "id": "45a134e8-94bd-4943-b5a8-d52d9827c47c",
+        "namespacedId": 11,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "dawn",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "variant": "arcade",
+            "floors": 3,
+            "elevation": 4.877,
+            "id": "8fU4GrDeggjp08OwLSxIy"
+          },
+          "right": {
+            "variant": "dock",
+            "floors": 4,
+            "elevation": 0,
+            "id": "99koxn-kC8uzW5O4mFeI4"
+          }
+        },
+        "segments": [
+          {
+            "id": "JiIieWI61JqF8YYB4nWdQ",
+            "type": "divider",
+            "variantString": "bush",
+            "width": 3.658,
+            "elevation": 4.573,
+            "slope": {
+              "on": true,
+              "values": [
+                4.725,
+                4.568
+              ]
+            },
+            "label": "Park",
+            "elevationChanged": true
+          },
+          {
+            "id": "dJ_t9zxI56O2wLzpcNIrv",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 4.264,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "ANLc6ej_TwSPStqT8Col8",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 3.658,
+            "elevation": 3.656,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park",
+            "elevationChanged": true
+          },
+          {
+            "id": "XAoj3QG6dQJ0OFrm4gjGn",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 3.352,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "UyiYUhWSSTqGZz6qYT1JQ",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 0.61,
+            "elevation": 2.744,
+            "slope": {
+              "on": true,
+              "values": [
+                3.048,
+                2.896
+              ]
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "vlhi__VFXXziZ6pKAaZkc",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 0.61,
+            "elevation": 2.744,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "C3OzYd01tKCNucMCxQ71I",
+            "type": "bike-lane",
+            "variantString": "twoway-right|green|sidewalk",
+            "width": 3.048,
+            "elevation": 2.592,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Cycletrack",
+            "elevationChanged": true
+          },
+          {
+            "id": "PPGicrq7h-EE84DlYqrAQ",
+            "type": "divider",
+            "variantString": "big-tree",
+            "width": 1.524,
+            "elevation": 2.745,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Park",
+            "elevationChanged": true
+          },
+          {
+            "id": "3Ni0WhU4Q1JGyPQ91ExFv",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 3.048,
+            "elevation": 2.894,
+            "slope": {
+              "on": true,
+              "values": [
+                2.745,
+                2.893
+              ]
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "EgaAqG3D_s2PWjrlvpWFQ",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 2.584,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "D6SrF0sGtkyYusLePkUoJ",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 3.048,
+            "elevation": 1.98,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Harborwalk",
+            "elevationChanged": true
+          },
+          {
+            "id": "MkeP7iDeyBABuUtoK2bBn",
+            "type": "outdoor-dining",
+            "variantString": "occupied|sidewalk",
+            "width": 2.134,
+            "elevation": 1.98,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "9ghr1Uz3lfOs8HwIz3SVF",
+            "type": "sidewalk-lamp",
+            "variantString": "left|traditional",
+            "width": 0.61,
+            "elevation": 1.98,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "SLZdw5sl7FHQSGVkyIp9c",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 1.676,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 218
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 0,
+          "stormSurge": false,
+          "floodDistance": [
+            null,
+            0
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T16:53:33.754+00:00",
+    "updated_at": "2026-07-15T17:40:03.83+00:00",
+    "client_updated_at": "2026-07-15T17:40:03.307+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  },
+  {
+    "id": "f7360ebc-bed5-46e1-a132-864dec05df02",
+    "namespaced_id": 12,
+    "status": "ACTIVE",
+    "name": "Dining Terrace",
+    "creator_id": "examples",
+    "data": {
+      "street": {
+        "schemaVersion": 35,
+        "showAnalytics": false,
+        "capacitySource": "nacto",
+        "width": 24.384,
+        "id": "f7360ebc-bed5-46e1-a132-864dec05df02",
+        "namespacedId": 12,
+        "units": 1,
+        "location": null,
+        "userUpdated": false,
+        "skybox": "dawn",
+        "weather": null,
+        "boundary": {
+          "left": {
+            "variant": "arcade",
+            "floors": 3,
+            "elevation": 4.877,
+            "id": "8fU4GrDeggjp08OwLSxIy"
+          },
+          "right": {
+            "variant": "dock",
+            "floors": 4,
+            "elevation": 0,
+            "id": "99koxn-kC8uzW5O4mFeI4"
+          }
+        },
+        "segments": [
+          {
+            "id": "oYuH7dpR4HbhzjwCsGf9t",
+            "type": "outdoor-dining",
+            "variantString": "empty|sidewalk",
+            "width": 2.134,
+            "elevation": 4.725,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "G45HAeHHz_eHKD9X8yM_3",
+            "type": "sidewalk",
+            "variantString": "sparse",
+            "width": 1.219,
+            "elevation": 4.725,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "-XQemGBkUINvFYmXRlIrs",
+            "type": "outdoor-dining",
+            "variantString": "occupied|sidewalk",
+            "width": 1.829,
+            "elevation": 4.725,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "l9BgGSCQ_GmmqZ_l9InRz",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 0.61,
+            "elevation": 4.725,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "dJ_t9zxI56O2wLzpcNIrv",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 4.264,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "1WOw1hqbvKy5nCvDH28qF",
+            "type": "outdoor-dining",
+            "variantString": "occupied|sidewalk",
+            "width": 2.134,
+            "elevation": 3.808,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "1S1qN2VdfOnzHRD_s_ad0",
+            "type": "sidewalk",
+            "variantString": "empty",
+            "width": 1.219,
+            "elevation": 3.808,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "8w0ii_Y-zdZJeM7MDmraw",
+            "type": "outdoor-dining",
+            "variantString": "empty|sidewalk",
+            "width": 2.134,
+            "elevation": 3.808,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "vlhi__VFXXziZ6pKAaZkc",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 0.61,
+            "elevation": 3.808,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "XAoj3QG6dQJ0OFrm4gjGn",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 3.352,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "CCwHbBFagbWU2ql8xIAYR",
+            "type": "sidewalk-bench",
+            "variantString": "left",
+            "width": 1.219,
+            "elevation": 2.888,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "D6SrF0sGtkyYusLePkUoJ",
+            "type": "sidewalk",
+            "variantString": "normal",
+            "width": 1.219,
+            "elevation": 2.892,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "MkeP7iDeyBABuUtoK2bBn",
+            "type": "outdoor-dining",
+            "variantString": "occupied|sidewalk",
+            "width": 2.134,
+            "elevation": 2.892,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "9ghr1Uz3lfOs8HwIz3SVF",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 0.61,
+            "elevation": 2.892,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "SLZdw5sl7FHQSGVkyIp9c",
+            "type": "wall",
+            "variantString": "low",
+            "width": 0.61,
+            "elevation": 2.436,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "UyiYUhWSSTqGZz6qYT1JQ",
+            "type": "divider",
+            "variantString": "flowers",
+            "width": 1.219,
+            "elevation": 1.832,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          },
+          {
+            "id": "C3OzYd01tKCNucMCxQ71I",
+            "type": "bike-lane",
+            "variantString": "twoway-right|green|sidewalk",
+            "width": 3.048,
+            "elevation": 1.676,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "label": "Cycletrack",
+            "elevationChanged": true
+          },
+          {
+            "id": "LeBMQABUQ_7OaWFbj-ioS",
+            "type": "sidewalk-lamp",
+            "variantString": "right|traditional",
+            "width": 1.219,
+            "elevation": 1.828,
+            "slope": {
+              "on": false,
+              "values": []
+            },
+            "elevationChanged": true
+          }
+        ],
+        "editCount": 164
+      },
+      "plugins": {
+        "coastmix": {
+          "controlsVisible": false,
+          "seaLevelRise": 0,
+          "stormSurge": false,
+          "floodDistance": [
+            null,
+            0
+          ]
+        }
+      }
+    },
+    "created_at": "2026-07-15T17:11:19.42+00:00",
+    "updated_at": "2026-07-15T19:42:40.021+00:00",
+    "client_updated_at": "2026-07-15T19:42:39.509+00:00",
+    "creator_ip": null,
+    "original_street_id": null
+  }
+]
